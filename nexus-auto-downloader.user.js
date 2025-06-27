@@ -566,6 +566,7 @@
                 margin: 10px 0;
                 font-family: monospace;
                 font-size: 11px;
+                color: #333;
             }
 
             .nexus-logs {
